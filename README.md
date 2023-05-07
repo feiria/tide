@@ -1,3 +1,13 @@
+# 在原TIDE的基础上增加了一些自定义功能
+- 横纵坐标轴显示
+- 柱状图上显示数值
+- 修改图中字体和字号
+- 支持高分辨率矢量图保存
+
+
+## 原TIDE仓库地址
+TIDE [仓库地址](https://github.com/dbolya/tide/)
+
 # A General **T**oolbox for **I**dentifying Object **D**etection **E**rrors
 ```
 ████████╗██╗██████╗ ███████╗
